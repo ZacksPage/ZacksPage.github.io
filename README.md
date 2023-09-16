@@ -17,6 +17,7 @@ Current Goals:
 [ ]  Bench 200lbs (Not Counting Bar)  
 
       [x]  100lbs
+      [ ]  125lbs
       [ ]  150lbs
       [ ]  175lbs
 
