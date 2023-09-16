@@ -8,19 +8,28 @@ As I grow and develop my skills, I plan to update this repository to reflect whe
 
 Current Goals:
 
-- [ ]  Complete Google Cybersecurity Professional Certification <br>
+- [ ]   Complete Google Cybersecurity Professional Certification <br>
 - [ ]  Complete Security+ Certification <br>
 - [ ]  Have at least three projects documented here. <br>
-> - [ ]  1 Project
-> - [ ]  2 Projects
-> - [ ]   3 Projects  
-      
-- [ ] Bench 200lbs (Not Counting Bar)  
->  - [x]  100lbs
->  - [ ]  125lbs
->  - [ ]  150lbs
->  - [ ]  175lbs
-
+ ```
+  [ ]  1 Project 
+  [ ]  2 Projects 
+  [ ]  3 Projects 
+```
+- [ ] Bench 200lbs (Not Counting Bar) <br>
+```  
+[x]  100lbs 
+[ ]  125lbs 
+[ ]  150lbs 
+[ ]  175lbs 
+```
+## My Current Cybersecurity Experience <br>
+I have been going through Google's Cybersecurity Professional Course and gradually learning the ins and outs of what it means to "Do Cybersecurity." 
+So far I have completed a lot of the modules and courses. Some of the more interesting things I have covered have been...
+> Basic SQL <br>
+> Packet Disection <br>
+> Basic Use of Wireshark <br>
+> Basic CLI on Linux <br>
 
 <!--
 **ZacksPage/ZacksPage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
